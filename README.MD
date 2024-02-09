@@ -8,7 +8,7 @@ This simple web application allows users to input their guesses for a randomly g
 
 ## Getting Started
 
-To play the game, simply open the `index.html` file in your web browser. Alternatively, you can access the game online [here](#) (replace with your live demo link if available).
+To play the game, simply open the `index.html` file in your web browser. 
 
 ## How to Play
 
